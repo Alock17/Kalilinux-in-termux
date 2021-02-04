@@ -1,0 +1,2 @@
+# Kalilinux-in-termux
+اوامر تثبيت الكالي لنكس termux-setup-storage pkg install wget wget -O install-nethunter-termux https://offs.ec/2MceZWr chmod +x install-nethunter-termux ./install-nethunter-termux تشغيل الكالي لنكس Termux nethunter : لتشغيل الكالي لنكس بستخدام الطرفية nethunter kex passwd : لوضع باسوورد للكالي لنكس nethunter kex &amp;    start : لتشغيل الكالي لنكس nethunter kex stop :  لأيقاف تشغيل الكالي لنكس هاذا كل شيء وطريقة التحميل والتثبيت سهلة للغاية , ,اذا كان لديك اي سؤال او استفسار لا تنسى اخبارنا في قسم التعليقات
